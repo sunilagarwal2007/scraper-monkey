@@ -1,6 +1,6 @@
 # Scraper Monkey
 
-##Project Scope
+## Project Scope
     This project performs web-scraping on Amazon.com, Bestbuy.com using Python to find best price for Samsung TVs.
 
 ## Product Analysis
