@@ -5,11 +5,11 @@ This project performs web-scraping on Amazon.com, Bestbuy.com using Python to fi
 
 ## Project Details
 
-![images/Slide1.jpeg](images/Slide1.jpeg)
+![Images/Slide1.jpeg](Images/Slide1.jpeg)
 
-![images/Slide1.jpeg](images/Slide2.jpeg)
+![Images/Slide1.jpeg](Images/Slide2.jpeg)
 
-![images/Slide1.jpeg](images/UI_Screenshot.png)
+![Images/Slide1.jpeg](Images/UI_Screenshot.png)
 
 
 ## Authors
