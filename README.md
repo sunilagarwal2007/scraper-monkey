@@ -3,8 +3,13 @@
 ## Project Scope
 This project performs web-scraping on Amazon.com, Bestbuy.com using Python to find best price for Samsung TVs.
 
-## Product Analysis
-[Add the impage or final analysis here ]
+## Project Details
+
+![images/Slide1.jpeg](images/Slide1.jpeg)
+
+![images/Slide1.jpeg](images/Slide2.jpeg)
+
+![images/Slide1.jpeg](images/UI_Screenshot.png)
 
 
 ## Authors
