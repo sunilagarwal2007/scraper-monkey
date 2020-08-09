@@ -18,7 +18,7 @@ app = Flask(__name__)
 # Pass connection to the pymongo instance.
 # client = pymongo.MongoClient(conn)
 
-rds_connection_string = "postgres:Infy123+@localhost:5432/Product_PriceDB"
+rds_connection_string = "postgres:{password}@localhost:5432/Product_PriceDB"
 engine = create_engine(f'postgresql://{rds_connection_string}')
 Base = automap_base()
 # reflect the tables
